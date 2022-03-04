@@ -1,7 +1,11 @@
 
 Hello 👋 !
-![Discord Shield](https://discordapp.com/api/guilds/931249604513632266/widget.png?style=shield)
 
+Hi my name is Demonas! I am a passionate self-taught front end software enginner from Lithuania. And welcome to my profile! 😄
+
+I am an open-source enthusiast and maintainer because I learned a lot of open-source community.
+
+ · Have any questions? Feel free to send:mailto:info@demonas.me me an email
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonasLT)
 
