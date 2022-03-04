@@ -17,7 +17,4 @@ I love the open-source community because of how much you can learn from it and h
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonasLT&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Demonas GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonasLT&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonasLT&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Demonas GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonasLT&show_icons=true&theme=radical)
