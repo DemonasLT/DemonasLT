@@ -9,7 +9,8 @@ I love the open-source community because of how much you can learn from it and h
  · Check out my website: https://demonas.me
  
  **Languages that I code in**<br>
-![rsz_css](https://user-images.githubusercontent.com/76224059/156850153-31269045-47d4-4902-a581-805d3c4f9811.png) ![rsz_html](https://user-images.githubusercontent.com/76224059/156850233-474c97c7-1bd2-4041-85ef-56e6df60cd0c.png) ![rsz_1rsz_javascript-icon-png-23](https://user-images.githubusercontent.com/76224059/156850874-829bd037-e4cb-4209-9e98-4e06f191f490.png)
+![rsz_css](https://user-images.githubusercontent.com/76224059/156850153-31269045-47d4-4902-a581-805d3c4f9811.png) ![rsz_html](https://user-images.githubusercontent.com/76224059/156850233-474c97c7-1bd2-4041-85ef-56e6df60cd0c.png) ![rsz_11rsz_javascript-icon-png-23](https://user-images.githubusercontent.com/76224059/156850943-ef3be43a-d141-4b09-bf73-a07629b8d420.png)
+
 
 
 
