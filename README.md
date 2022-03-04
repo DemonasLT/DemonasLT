@@ -5,7 +5,7 @@ Hi my name is Demonas! I am a passionate self-taught front end software enginner
 
 I love the open-source community because of how much you can learn from it and how collaborative everyone are!
 
- · Add me on discord: Turbut Demonas#6147
+ · Add me on discord: Turbut Demonas#6147<br>
  · Check out my website: https://demonas.me
  
  **Languages that I code in**
