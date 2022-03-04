@@ -1,5 +1,6 @@
 
 Hello 👋 !
+![Discord Shield](https://discordapp.com/api/guilds/931249604513632266/widget.png?style=shield)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonasLT)
