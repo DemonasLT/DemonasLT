@@ -8,7 +8,7 @@ I love the open-source community because of how much you can learn from it and h
  · Add me on discord: Turbut Demonas#6147<br>
  · Check out my website: https://demonas.me
  
- **Languages that I code in**
+ **Languages that I code in**<br>
 ![rsz_css](https://user-images.githubusercontent.com/76224059/156850153-31269045-47d4-4902-a581-805d3c4f9811.png)
 
 
