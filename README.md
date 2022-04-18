@@ -1,7 +1,7 @@
 
 Hello 👋 !
 
-Hi my name is Demonas! I am a passionate self-taught front end software enginner from Lithuania. And welcome to my profile! 😄
+Hi my name is Demonas! I am a passionate SEMI self-taught front end software enginner from Lithuania. And welcome to my profile! 😄
 
 I love the open-source community because of how much you can learn from it and how collaborative everyone are!
 
