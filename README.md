@@ -1,22 +1,22 @@
 
-Hello 👋 !
+<b>Hello 👋 ! My name is Martynas.
 <hr>
 
-Hi my name is Demonas! I am a passionate SEMI self-taught Front End software enginner from Lithuania. And welcome to my profile! 😄
-
-I love the open-source community because of how much you can learn from it and how collaborative everyone are!
-
- · Add me on discord: Turbut Demonas#9999<br>
- · Check out my website: https://demonas.me
+Welcome to my profile! I'm a Front-End Software Engineer, I primarily work with Next.JS & Tailwindcss and I have over 4 years of web-developing experience.<br>
+<center>![](https://komarev.com/ghpvc/?username=your-github-DemonasLT&label=PROFILE+VIEWS&color=green)
  
- **Languages that I code in**<br>
- Images broke :D, Fixing them soon. 
-I code in HTML, CSS, JAVASCRIPT, TYPESCRIPT, PYTHON
+ · I'm currently working on my own software developing company!<br>
+ · Add me on discord: Turbut Demonas#9999<br>
+ · All of my projects are available at https://demonas.me (I'm REWORKING THIS WEBSITE SO NOTHING IS AVAILABLE HERE :D )
+ 
+I use these Languages and Tools: 
+https://toppng.com/free-image/html-css-js-icons-PNG-free-PNG-Images_239551
 
 **Currently learning**<br>
 Also broken image :D, Learning REACT
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-DemonasLT&label=PROFILE+VIEWS&color=green)<br>
+<br>
+<center>![](https://komarev.com/ghpvc/?username=your-github-DemonasLT&label=PROFILE+VIEWS&color=green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonasLT&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Demonas GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonasLT&show_icons=true&theme=radical)
