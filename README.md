@@ -1,5 +1,6 @@
 
 Hello 👋 !
+<hr>
 
 Hi my name is Demonas! I am a passionate SEMI self-taught Front End software enginner from Lithuania. And welcome to my profile! 😄
 
