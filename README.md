@@ -1,6 +1,5 @@
 
 <h1 align="center">Hello 👋 ! My name is Martynas.</h1>
-<hr>
 
 Welcome to my profile! I'm a Front-End Software Engineer, I primarily work with Next.JS & Tailwindcss and I have over 4 years of web-developing experience.<br>
 <center>![](https://komarev.com/ghpvc/?username=your-github-DemonasLT&label=PROFILE+VIEWS&color=green)
