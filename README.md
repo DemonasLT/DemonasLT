@@ -1,5 +1,5 @@
 
-<p align="center">**Hello 👋 ! My name is Martynas.**</p>
+<p align="center" font-size="32">Hello 👋 ! My name is Martynas.</p>
 <hr>
 
 Welcome to my profile! I'm a Front-End Software Engineer, I primarily work with Next.JS & Tailwindcss and I have over 4 years of web-developing experience.<br>
