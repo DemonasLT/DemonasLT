@@ -6,7 +6,6 @@
  
  · I'm currently working on my own software developing company!<br>
  · Add me on discord: Turbut Demonas#9999<br>
- · All of my projects are available at https://demonas.me (I'm REWORKING THIS WEBSITE SO NOTHING IS AVAILABLE HERE :D )
  
 I use these Languages and Tools: 
 <p align="left"> 
