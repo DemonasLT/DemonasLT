@@ -7,7 +7,7 @@
  · I'm currently working on my a lot of random projects and a website to store them all.<br>
  · Add me on discord: demonas.<br>
  
-I use these Languages and Tools: 
+<p align="center" />I use these Languages and Tools: 
 <p align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
